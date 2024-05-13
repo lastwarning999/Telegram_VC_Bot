@@ -19,7 +19,7 @@ if HEROKU:
 
 # NOTE Fill this if you are not deploying on heroku.
 if not HEROKU:
-    API_ID = 14371
+    API_ID = 1437bnch1
     API_HASH = "e46b6c854d2bf58a0"
     ARQ_API_KEY = "Get this from @ARQRobot"
     CHAT_ID = -100546355432
